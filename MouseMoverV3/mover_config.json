@@ -1,0 +1,21 @@
+{
+  "MENU_X": 835,
+  "MENU_Y_MIN": 405,
+  "MENU_Y_MAX": 851,
+  "NEXT_X": 1669,
+  "NEXT_Y": 848,
+  "PLAY_X": 1314,
+  "PLAY_Y": 614,
+  "REFRESH_X": 79,
+  "REFRESH_Y": 60,
+  "PROFILE_X": 1880,
+  "PROFILE_Y": 141,
+  "LOGOUT_X": 1790,
+  "LOGOUT_Y": 816,
+  "WAIT_MIN": 120,
+  "WAIT_MAX": 300,
+  "MENU_MIN": 600,
+  "MENU_MAX": 1200,
+  "REFRESH_MIN": 2700,
+  "REFRESH_MAX": 3300
+}
