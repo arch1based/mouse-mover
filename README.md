@@ -6,10 +6,10 @@
 
 ## 📦 Εκδόσεις
 
-| Έκδοση | Αρχείο | Περιγραφή |
-|--------|--------|-----------|
-| **V4.1** 🆕 | `MouseMoverV4.exe` | Για πλατφόρμες PDF/slides με κουμπί ≡ λίστας |
-| **V3** ⭐ | `MouseMoverV3.exe` | Κλασική έκδοση για βίντεο e-learning |
+| Έκδοση | Κατέβασμα | Περιγραφή |
+|--------|-----------|-----------|
+| **V4.1** 🆕 | [⬇ MouseMoverV4.exe](https://github.com/arch1based/mouse-mover/raw/main/MouseMoverV4/MouseMoverV4.exe) | Για πλατφόρμες PDF/slides με κουμπί ≡ λίστας |
+| **V3** ⭐ | [⬇ MouseMoverV3.exe](https://github.com/arch1based/mouse-mover/raw/main/MouseMoverV3/MouseMoverV3.exe) | Κλασική έκδοση για βίντεο e-learning |
 | Pro | `mouse_mover_pro.py` | Σταθερή έκδοση (χρειάζεται Python) |
 
 ---
@@ -17,13 +17,16 @@
 ## ⚡ Γρήγορη Εκκίνηση με EXE (Συνιστάται — χωρίς εγκατάσταση)
 
 ### 1. Κατέβασε το πρόγραμμα
-- Πάτα το πράσινο κουμπί **"<> Code"** πάνω δεξιά
-- Επίλεξε **"Download ZIP"**
-- Αποσυμπίεσε το ZIP
-- Για V3 → μπες στον φάκελο **`MouseMoverV3`** → τρέξε **`MouseMoverV3.exe`**
-- Για V4 → μπες στον φάκελο **`MouseMoverV4`** → τρέξε **`MouseMoverV4.exe`**
 
-> ⚠️ Το `.exe` και το αρχείο `mover_config_*.json` πρέπει να είναι στον **ίδιο φάκελο**!
+| Έκδοση | Direct Link |
+|--------|-------------|
+| V4.1 (PDF/Slides) | [⬇ Κατέβασε MouseMoverV4.exe](https://github.com/arch1based/mouse-mover/raw/main/MouseMoverV4/MouseMoverV4.exe) |
+| V3 (Βίντεο) | [⬇ Κατέβασε MouseMoverV3.exe](https://github.com/arch1based/mouse-mover/raw/main/MouseMoverV3/MouseMoverV3.exe) |
+
+- Κατέβασε το `.exe` σε έναν **άδειο φάκελο** της επιλογής σου
+- Διπλό κλικ για εκκίνηση
+
+> ⚠️ Το `.exe` και το αρχείο `mover_config_*.json` (δημιουργείται αυτόματα) πρέπει να είναι στον **ίδιο φάκελο**!
 
 ---
 
